@@ -1,0 +1,4 @@
+Clean House.low
+Pay Bills.high
+Install Curtains.low
+Hang Up Diplomas.high
